@@ -41,7 +41,7 @@ Education Level
 
 **🚀 How to Use**
 Download or clone this repository.
-Open the Bike Sales Dashboard in Excel.
+Open the Bike Sales Dashboard in Excel https://1drv.ms/x/s!ApNoKZ0Fz3d7mHJKSrKbrQx-yqzI?e=pJZS6P 
 Use the filters to explore different customer segments and sales trends.
 
 **📄 Future Improvements**
